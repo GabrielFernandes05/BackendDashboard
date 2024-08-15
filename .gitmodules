@@ -1,0 +1,3 @@
+[submodule "FrontendDashboard"]
+	path = FrontendDashboard
+	url = https://github.com/GabrielFernandes05/FrontendDashboard.git

@@ -1,0 +1,5 @@
+# Configuração do Air
+[build]
+cmd = "go build -o ./bin/main main.go" # Comando para compilar o seu projeto
+bin = "./bin/main"                     # Caminho para o binário compilado
+full_bin = "APP_ENV=dev ./bin/main"    # Comando completo para executar o binário
